@@ -1,0 +1,4 @@
+ingestion_pid: 5924
+task_name: data02
+time_budget: 1800
+start_time: 1569491591.834582
